@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.fengit.cn"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["110.42.254.232"];
 pub const RS_PUB_KEY: &str = "0dB1x9SL+B9keV55yi7wcYKqbXvTOSreqGEgpTPVorM=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
